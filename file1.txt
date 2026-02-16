@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 line 1 in master in new version
 
+=======
+line 1 in branch
+>>>>>>> branch1
